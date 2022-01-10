@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-checkers/static/css/main.fd823237.chunk.css",
-    "main.js": "/react-checkers/static/js/main.0d236a91.chunk.js",
-    "main.js.map": "/react-checkers/static/js/main.0d236a91.chunk.js.map",
+    "main.css": "/react-checkers/static/css/main.ebb283a3.chunk.css",
+    "main.js": "/react-checkers/static/js/main.7fe00749.chunk.js",
+    "main.js.map": "/react-checkers/static/js/main.7fe00749.chunk.js.map",
     "runtime-main.js": "/react-checkers/static/js/runtime-main.b6bb157c.js",
     "runtime-main.js.map": "/react-checkers/static/js/runtime-main.b6bb157c.js.map",
-    "static/js/2.5209c5c3.chunk.js": "/react-checkers/static/js/2.5209c5c3.chunk.js",
-    "static/js/2.5209c5c3.chunk.js.map": "/react-checkers/static/js/2.5209c5c3.chunk.js.map",
+    "static/js/2.1dfe27e4.chunk.js": "/react-checkers/static/js/2.1dfe27e4.chunk.js",
+    "static/js/2.1dfe27e4.chunk.js.map": "/react-checkers/static/js/2.1dfe27e4.chunk.js.map",
     "index.html": "/react-checkers/index.html",
-    "static/css/main.fd823237.chunk.css.map": "/react-checkers/static/css/main.fd823237.chunk.css.map",
-    "static/js/2.5209c5c3.chunk.js.LICENSE.txt": "/react-checkers/static/js/2.5209c5c3.chunk.js.LICENSE.txt"
+    "static/css/main.ebb283a3.chunk.css.map": "/react-checkers/static/css/main.ebb283a3.chunk.css.map",
+    "static/js/2.1dfe27e4.chunk.js.LICENSE.txt": "/react-checkers/static/js/2.1dfe27e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6bb157c.js",
-    "static/js/2.5209c5c3.chunk.js",
-    "static/css/main.fd823237.chunk.css",
-    "static/js/main.0d236a91.chunk.js"
+    "static/js/2.1dfe27e4.chunk.js",
+    "static/css/main.ebb283a3.chunk.css",
+    "static/js/main.7fe00749.chunk.js"
   ]
 }
